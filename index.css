@@ -45,11 +45,12 @@ main {
 img {
   max-width: 100%;
   height: auto;
-  padding-bottom: 1em;
 }
 
 footer {
   width: auto;
   height: 8vh;
   background-color: burlywood;
+  text-align: center;
 }
+
