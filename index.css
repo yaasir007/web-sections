@@ -16,6 +16,11 @@ header {
   background-color: cadetblue;
 }
 
+img {
+  width: 100%;
+  transition: width 2s 4s 2s;
+}
+
 ul {
   display: flex;
   justify-content: end;
@@ -51,6 +56,4 @@ footer {
   width: auto;
   height: 8vh;
   background-color: burlywood;
-  text-align: center;
 }
-
